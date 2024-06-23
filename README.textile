@@ -14,4 +14,4 @@ This fork has the following updates compared to the source
 * Integration of SimpleLightbox for the display of the gallery
 * Error free code in W3C validator
 
-The website "Offene Bergkapelle Hillershausen":bergkapelle.info may serve as an example for this theme.
+The website "Offene Bergkapelle Hillershausen":https://bergkapelle.info may serve as an example for this theme.
