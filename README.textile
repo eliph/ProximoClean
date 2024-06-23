@@ -11,7 +11,7 @@ Create an image category called 'gallery' which will automatically output thumbn
 
 This fork has the following updates compared to the source
 
-* Integration of SimpleLightbox for the display of the gallery
+* Integration of "SimpleLightbox":https://dbrekalo.github.io/simpleLightbox/ for the display of the gallery
 * Error free code in W3C validator
 
 The website "Offene Bergkapelle Hillershausen":https://bergkapelle.info may serve as an example for this theme.
