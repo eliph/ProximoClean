@@ -1,0 +1,17 @@
+h2. ProximoClean
+
+Clean theme for Textpattern by Hilary Quinn / Proximo Web Design
+
+This is a free theme for you to use with your Textpattern install.
+I will include an image you can use for the hero section, please note you are free to use this image for your own or client websites, but you cannot claim ownership of/sell prints/print on demand etc of this image. Image copyright held by Hilary Quinn.
+
+The first image you upload will serve as the hero image.
+
+Create an image category called 'gallery' which will automatically output thumbnails in the gallery section to the bottom of the page.
+
+This fork has the following updates compared to the source
+
+* Integration of SimpleLightbox for the display of the gallery
+* Error free code in W3C validator
+
+The website "Offene Bergkapelle Hillershausen":bergkapelle.info may serve as an example for this theme.
