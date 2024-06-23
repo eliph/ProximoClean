@@ -1,8 +1,11 @@
+<div class="gallery">
 <txp:images category="gallery" id="" wraptag="ul" break="" class="imagescroll">
 <li>
-<img src="<txp:image_url thumbnail='1' />" alt="Image <txp:image_info type='caption' wraptag='' class='' escape='unset' />" />
+<a href=<txp:image_url thumbnail='0'/> ><img src="<txp:image_url thumbnail='1' />" rel="rel<txp:image_info type='id' />" alt="" title="Image <txp:image_info type='id' wraptag='' class='' escape='unset' />" /></a>
 <meta itemprop="width" content="<txp:image_info type='w' wraptag='' class='' break='' />">
 <meta itemprop="height" content="<txp:image_info type='h' wraptag='' class='' break='' />">
-<meta itemprop="url" content="<txp:image_url thumbnail="0" />">
+<meta itemprop="url" content="<txp:image_url thumbnail="1" />">
 </li>
 </txp:images>
+<div class="clear"></div>
+</div>
